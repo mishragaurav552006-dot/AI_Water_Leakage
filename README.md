@@ -7,8 +7,9 @@ The project aims to reduce water wastage, improve monitoring, and provide early 
 
 //Setup instructions
 Step 1: Plotting of Live input output raw data.
+
 Step 2: Configure EMQX Cloud
-1. Sign in to your HiveMQ Cloud account.
+1. Sign in to your EMQX Cloud account.
 2. Create or open your MQTTX.
 3. Obtain the broker hostname and port.
 4. Create MQTT credentials with appropriate permissions.
